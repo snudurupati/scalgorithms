@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalgorithms.iml" filepath="$PROJECT_DIR$/.idea/modules/scalgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalgorithms-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalgorithms-build.iml" />
     </modules>
   </component>
 </project>
